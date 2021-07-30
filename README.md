@@ -12,11 +12,11 @@ Diseñamos una app que tenga en cuenta la principal necesidad que surgió en nue
 <h4>público</h4>
 <p>Alumnos, docentes y no docentes de Fadu</p>
 <br>
-mapa de navegación ⟶ http://catedraocampo.com.ar/tps_2020/2cuat/vn12/img/mapadenavegacion.png
+mapa de navegación ⟶ https://postimg.cc/QKp1LqDh
 <br>
 prototipado ⟶ https://www.figma.com/proto/HtFkT19BpKuhmahuvCrxGH/VN-12-✨?node-id=277%3A3202&scaling=scale-down
 <br>
-proyecto final ⟶ http://catedraocampo.com.ar/tps_2020/2cuat/vn12/tp/portada.html
+proyecto final ⟶ https://antonellafossati.github.io/SemaFADU/
 <br>
 <hr>
 <p>Gracias 🤠</p>
