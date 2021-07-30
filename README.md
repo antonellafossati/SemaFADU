@@ -12,7 +12,7 @@ Diseñamos una app que tenga en cuenta la principal necesidad que surgió en nue
 <h4>público</h4>
 <p>Alumnos, docentes y no docentes de Fadu</p>
 <br>
-mapa de navegación ⟶ https://postimg.cc/QKp1LqDh
+mapa de navegación ⟶ https://i.postimg.cc/MZ6rgN7D/Mapa-de-navegaci-n.png
 <br>
 prototipado ⟶ https://www.figma.com/proto/HtFkT19BpKuhmahuvCrxGH/VN-12-✨?node-id=277%3A3202&scaling=scale-down
 <br>
